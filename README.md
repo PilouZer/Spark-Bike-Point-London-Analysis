@@ -1,1 +1,2 @@
 # Spark-Bike-Point-London-Analysis
+I worked on this project in the context of my class "Modern Data Architectures for Big Data". The aim of this project was to ingest data from the "Transport for London" API and format it through Nifi, then store this batch data within Hadoop HDFS. The notebook in this repository is the processing part of this project and my aim is to answer 3 business questions I had to come up with regarding the APi I mentionned above. 
